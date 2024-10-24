@@ -45,6 +45,7 @@ $ npx react-native run-android
 
 ⚠️ _Remember to only run the app with the Emulator running!_ ⚠️
 
+
 </br>
 
 </br>
