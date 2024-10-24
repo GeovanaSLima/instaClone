@@ -1,7 +1,7 @@
 import React from "react";
 import { View, Text, StyleSheet, TouchableOpacity, Image} from "react-native";
 
-export default function AddPost() {
+export default function AddPostScreen() {
     <View style={styles.container}>
         <Text >
             add new post
