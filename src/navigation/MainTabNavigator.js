@@ -9,6 +9,7 @@ import ReelsScreen from "../screens/ReelsScreen";
 import ProfileScreen from "../screens/ProfileScreen";
 import RecentSearchScreen from "../components/RecentSearch";
 import PostScreen from "../screens/PostScreen";
+import AddPostScreen from "../screens/AddPostScreen";
 
 const Tab = createBottomTabNavigator();
 const Stack = createStackNavigator();
@@ -85,7 +86,7 @@ export default function MainTabNavigator() {
 
     const NewPostStack = () => (
         <Stack.Navigator>
-            <Stack.Screen name="NewPost" component={NewPostScreen} 
+            <Stack.Screen name="NewPost" component={AddPostScreen} 
                 options={{
                     headerShown: false
                 }}
