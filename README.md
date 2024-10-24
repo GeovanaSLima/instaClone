@@ -6,8 +6,6 @@ The idea of this app is to apply some new knowledge obtained in my current learn
 
 
 
-
-
 # 💻 How to Use It
 
 ## ⚠️ Requirements
