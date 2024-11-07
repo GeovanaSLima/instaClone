@@ -4,6 +4,7 @@ React Native project copying the Instagram Feed UI. The posts information were s
 
 The idea of this app is to apply some new knowledge obtained in my current learning journey.
 
+<p align="center"><img src="https://github.com/user-attachments/assets/9195d3f2-fd52-49bd-86a0-acc45d798185"  alt="Insta Clone App" style="width: 250px"/></p>
 
 
 # 💻 How to Use It
